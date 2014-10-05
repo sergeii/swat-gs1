@@ -1,7 +1,7 @@
 swat-gs1
 %%%%%%%%
 
-:Version:           1.0.0
+:Version:           1.0.1
 :Home page:         https://github.com/sergeii/swat-gs1
 :Author:            Sergei Khoroshilov <kh.sergei@gmail.com>
 :License:           The MIT License (http://opensource.org/licenses/MIT)
