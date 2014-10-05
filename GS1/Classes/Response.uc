@@ -209,10 +209,10 @@ public function AddCOOPInfo()
     {
         switch (Procedures.Procedures[i].class.name)
         {
-            case 'Procedure_SecureAllWeapons':
+            case 'Procedure_ReportCharactersToTOC':
                 self.AddPair("tocreports", Procedures.Procedures[i].Status());
                 break;
-            case 'Procedure_ReportCharactersToTOC':
+            case 'Procedure_SecureAllWeapons':
                 self.AddPair("weaponssecured", Procedures.Procedures[i].Status());
                 break;
         }
